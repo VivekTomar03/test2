@@ -1,2 +1,2 @@
 console.log("vivek singh tomar");
-console.log("age");
+console.log("age = 27");
